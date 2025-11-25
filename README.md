@@ -32,8 +32,4 @@
 
 ---
 
-## Please support this small author if my projects helped you (via GCASH), my mom kinda homeless <3
-<img width="993" height="494" alt="FDFD" src="https://github.com/user-attachments/assets/b4c3291a-f93c-4f91-80c8-778937d01246" />
-
-
-
+## Please support this small author if my projects helped you (via GCASH, dm), my mom kinda homeless <3
