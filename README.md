@@ -25,13 +25,6 @@
 
 <img width="1026" height="434" alt="ASASA" src="https://github.com/user-attachments/assets/2d0e96ef-52b2-42e9-8f3c-50a77d97686b" />
 
-
----
-
-## Installation
-
-1. Download this repository via zip file or clone
-
 ---
 
 ## Please support this small author if my projects helped you (via GCASH), my mom kinda homeless <3
