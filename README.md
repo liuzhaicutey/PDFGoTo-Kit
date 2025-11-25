@@ -19,6 +19,11 @@
 - **Add Stamps**: Stamp PDFs with custom text, color, and position.  
 - **Theme Support**: Multiple GUI themes including Blue, Charcoal, Forest, Sunset, and Violet.  
 
+## Features likely to be added in the future:
+
+- **PDF to Word converter**
+- **PDF Editor Interface**
+
 ---
 
 ## Screenshots
