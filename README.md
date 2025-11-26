@@ -20,7 +20,7 @@
 - **Theme Support**: Multiple GUI themes including Blue, Charcoal, Forest, Sunset, and Violet.  
 
 ## Features likely to be added in the future:
-
+- **PDF Encryption** - Already added to version 1.1.1 latest version
 - **PDF to Word converter**
 - **PDF Editor Interface**
 
