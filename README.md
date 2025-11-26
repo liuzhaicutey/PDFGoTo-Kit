@@ -16,7 +16,8 @@
 - **Extract Images**: Extract all images from a PDF to a chosen folder.  
 - **Rotate PDFs**: Rotate pages by 90°, 180°, 270°, or custom angles.  
 - **Add Watermarks**: Apply text watermarks with customizable opacity and rotation.  
-- **Add Stamps**: Stamp PDFs with custom text, color, and position.  
+- **Add Stamps**: Stamp PDFs with custom text, color, and position.
+- **PDF Encryption**: Encrypts your PDF with a password of your own.  
 - **Theme Support**: Multiple GUI themes including Blue, Charcoal, Forest, Sunset, and Violet.  
 
 ## Features likely to be added in the future:
