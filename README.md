@@ -4,7 +4,6 @@
 
 - **PDFGoTo Kit** is a comprehensive GUI-based PDF toolkit built with Python and Tkinter. It allows you to merge, split, rotate, watermark, stamp, and extract text or images from PDF files easily.
 - **Download link** is here: https://drive.google.com/drive/folders/1uEwFcNwE9stRHI7c4k7sd-nqsIKavSXi?usp=drive_link (Version 1.2.0 latest)
-- *Please consider donating to the author below if this tool helped you. Your help is greatly appreciated <3*
 
 ---
 
